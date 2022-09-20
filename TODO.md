@@ -1,0 +1,3 @@
+- Mathematische beweise
+- == zu logisch gleich ersetzen
+- => zu logisch folgt ersetzen
